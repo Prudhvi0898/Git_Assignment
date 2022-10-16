@@ -20,7 +20,7 @@ git --version (to know which version is running in our PC)
 
 ![Which_branch](https://user-images.githubusercontent.com/93903474/196028221-6bca231b-5262-496c-b628-c59c7a7c84c6.png)
 
-![Shifting branch from master to main](https://user-images.githubusercontent.com/93903474/196028228-75983eca-5857-4
+
 ![remote repository](https://user-images.githubusercontent.com/93903474/196028314-9e128ae5-4dfe-4105-8fa6-aaadeb9a2efa.png)
 
 ![pushing to repo](https://user-images.githubusercontent.com/93903474/196028318-901a172f-f6fb-4056-b995-98c2a6bf6072.png)
