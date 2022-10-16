@@ -8,6 +8,9 @@ git --version (to know which version is running in our PC)
 
 ![Username](https://user-images.githubusercontent.com/93903474/196028154-ef65ff77-d27a-4f54-9564-825a9db7f79d.png)
 
+![Checking_User_Name](https://user-images.githubusercontent.com/93903474/196028472-aba01aa2-d0e5-461b-9eea-a35c5d93450e.png)
+
+
 ![Initialize_Email](https://user-images.githubusercontent.com/93903474/196028163-9b17ec59-56d3-4f25-8eac-3dbb3dcc7a09.png)
 
 ![Checking_Email_ID](https://user-images.githubusercontent.com/93903474/196028165-dc2c0e78-e6db-4a26-a9c2-48b14f637650.png)
